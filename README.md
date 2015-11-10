@@ -6,9 +6,9 @@
 
 ### Installation
 
-* $ npm install git+ssh://git@github.com:5inline/generator-component.git
-* $ yo component <name>
-* $ yo component:flux <name>
+* `$ npm install -g git+ssh://git@github.com:5inline/generator-component.git`
+* `$ yo component <name>`
+* `$ yo component:flux <name>`
 
 
 ## License
